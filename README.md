@@ -21,7 +21,7 @@ pip install -r requirements.txt
 5. Run the code
 
 RESULTS:
-Training Accuracy: 83.03%
+Training Accuracy: 83.08%
 Validation Accuracy: 75.91%
 the proof for the accuracies is as follows:
 <img width="711" height="318" alt="Screenshot 2025-09-28 145041" src="https://github.com/user-attachments/assets/02343e06-979f-40c5-a27c-486f24b51692" />
